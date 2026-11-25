@@ -1,0 +1,722 @@
+[
+  {
+    "id": "recent-01",
+    "rating": 5,
+    "date": "2026-11-25",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21sRmVuUk5SSE5NWkZnM1NVNVpkVzFpYnpKT2EwRRAB"
+  },
+  {
+    "id": "recent-02",
+    "rating": 5,
+    "date": "2026-11-24",
+    "batch": "newest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT201MFpraExVREZhVjNKeGRYRTBNVWc1WkdwMFZFRRAB"
+  },
+  {
+    "id": "recent-03",
+    "rating": 5,
+    "date": "2026-11-24",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT25sVlR6VnVSV2h6TFdaTVUzRktjbFZTWWpkMFUwRRAB"
+  },
+  {
+    "id": "recent-04",
+    "rating": 5,
+    "date": "2026-11-24",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2pack1UbFdVVEZLTVVKUVFVaDRibEJwZERWemVsRRAB"
+  },
+  {
+    "id": "recent-05",
+    "rating": 4,
+    "date": "2026-11-24",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2pKQlZrcGZMV2RuZURoQmEzbFlOM1V3TWtJMWNsRRAB"
+  },
+  {
+    "id": "recent-06",
+    "rating": 5,
+    "date": "2026-11-24",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2tGUVZUQnlXSFF6WXpoSGJXTmZhVkZrWm01NlluYxAB"
+  },
+  {
+    "id": "recent-07",
+    "rating": 5,
+    "date": "2026-11-24",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2xOSGRtSklTMWxvTFhGS09GSmxXVTVTUkMxRVQyYxAB"
+  },
+  {
+    "id": "recent-08",
+    "rating": 5,
+    "date": "2026-11-23",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2pGcFZVZExMVmhwWlVaQmJUUmtMWE5hVjA1alRsRRAB"
+  },
+  {
+    "id": "recent-09",
+    "rating": 4,
+    "date": "2026-11-23",
+    "batch": "newest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2xvMVpWRXpjVFJ0WVd4WU9DMW1ZbTV2ZVhocU9FRRAB"
+  },
+  {
+    "id": "recent-10",
+    "rating": 5,
+    "date": "2026-11-23",
+    "batch": "newest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2kxSmJXODBWR1U0UVZsblRYRlNZVlpOUVZWWVJtYxAB"
+  },
+  {
+    "id": "recent-11",
+    "rating": 4,
+    "date": "2026-11-23",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21oSVFTMUlkekJaWldSR2NXMUthelJ4U0hjNVdtYxAB"
+  },
+  {
+    "id": "recent-12",
+    "rating": 5,
+    "date": "2026-11-22",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21ReWFHdGZZVjlpVEVnMmNsVm1WM0JST0dWS1RHYxAB"
+  },
+  {
+    "id": "recent-13",
+    "rating": 5,
+    "date": "2026-11-22",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2xkTmJuTk1UVWhSWVRJMVdubHBWMmszTkdJdE0xRRAB"
+  },
+  {
+    "id": "recent-14",
+    "rating": 5,
+    "date": "2026-11-22",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT201UlVrTmpSREJGU0dSSGNucDZkMEZsWjBSaVRVRRAB"
+  },
+  {
+    "id": "recent-15",
+    "rating": 5,
+    "date": "2026-11-22",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21sWVNrSkxVV2x4VkZsVU0wazNRVTlKYTFCaVduYxAB"
+  },
+  {
+    "id": "recent-16",
+    "rating": 5,
+    "date": "2026-11-22",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChZDSUhNMG9nS0VJQ0FnTUNBODdubU9BEAE"
+  },
+  {
+    "id": "recent-17",
+    "rating": 1,
+    "date": "2026-11-21",
+    "batch": "newest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2tWbFkydHZjbk5CTmxwZlNYWmpTRE5NVlVWc04yYxAB"
+  },
+  {
+    "id": "recent-18",
+    "rating": 4,
+    "date": "2026-11-21",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2taR2RrRndhbTg1UkZsb1NIaHBTbVU1TlhaaFJGRRAB"
+  },
+  {
+    "id": "recent-19",
+    "rating": 4,
+    "date": "2026-11-21",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2poTGNYaExSMVkyZFUxUGMyaHRWa056ZDFCVlUyYxAB"
+  },
+  {
+    "id": "recent-20",
+    "rating": 5,
+    "date": "2026-11-21",
+    "batch": "newest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2xsYUxYVkdYekZLTVhKdlZGOXhVR2xJTjNocldYYxAB"
+  },
+  {
+    "id": "recent-21",
+    "rating": 4,
+    "date": "2026-11-21",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2xGTFdWYzRlbVV4WTNCd05XSjVWa2hCZVRSbFNFRRAB"
+  },
+  {
+    "id": "recent-22",
+    "rating": 5,
+    "date": "2026-11-21",
+    "batch": "newest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21OUlZVbFJTakpVVVV0V1luRjNUSGhsWkdGM1JVRRAB"
+  },
+  {
+    "id": "recent-23",
+    "rating": 5,
+    "date": "2026-11-20",
+    "batch": "newest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21kZlZHOXJOelpZYTJGRFdrZERPRnA2ZFVOSlozYxAB"
+  },
+  {
+    "id": "recent-24",
+    "rating": 4,
+    "date": "2026-11-20",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21JMFRuaHNYMTk1TTJZMGFHd3lXbGhyYkdkMFRWRRAB"
+  },
+  {
+    "id": "recent-25",
+    "rating": 5,
+    "date": "2026-11-20",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2poTWRGWnRhbFpETFhCMldqbFBlbXREUzNoUmRGRRAB"
+  },
+  {
+    "id": "recent-26",
+    "rating": 5,
+    "date": "2026-11-20",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2s1cFpYaFJUVUpETUVaRWIxQmZUbEZQVFd0M2IzYxAB"
+  },
+  {
+    "id": "recent-27",
+    "rating": 5,
+    "date": "2026-11-20",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21oQk5GRkpNRmxxZEdKNVRrNHlWek53VlV4UlpYYxAB"
+  },
+  {
+    "id": "recent-28",
+    "rating": 5,
+    "date": "2026-11-20",
+    "batch": "newest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2twR2JHb3hibTVmYTNWU1dTMVpWMEowY1dGd1ZuYxAB"
+  },
+  {
+    "id": "recent-29",
+    "rating": 5,
+    "date": "2026-11-19",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2tsbFVVVmxhR052WW10TFZqWm1VV1p5YW0wMmEwRRAB"
+  },
+  {
+    "id": "recent-30",
+    "rating": 4,
+    "date": "2026-11-19",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2tGaFQwbFZjMDVPUVZSblJ6WnNialZ4UzFBM1ZWRRAB"
+  },
+  {
+    "id": "recent-31",
+    "rating": 5,
+    "date": "2026-11-19",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT25sS2VrRnNYemwzYVhaSWFFdG1TalJMY1dONk0zYxAB"
+  },
+  {
+    "id": "recent-32",
+    "rating": 5,
+    "date": "2026-11-18",
+    "batch": "newest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT25WQ2VrUjBiWHAyV2w5dGRtUjVhRkEwYURoV05rRRAB"
+  },
+  {
+    "id": "recent-33",
+    "rating": 5,
+    "date": "2026-11-18",
+    "batch": "newest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2taMFRrTnhOa0ZPVG1wd2QzbFJTMlZOTURoUU9IYxAB"
+  },
+  {
+    "id": "recent-34",
+    "rating": 5,
+    "date": "2026-11-18",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2w5MFVtTlpPWGRQUzBOc2FGRkxWblJEV1VOaFVsRRAB"
+  },
+  {
+    "id": "recent-35",
+    "rating": 4,
+    "date": "2026-11-18",
+    "batch": "newest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2xwWGNrUTVURkUyWW5KdGNTMTRSSGROU21WRE4wRRAB"
+  },
+  {
+    "id": "recent-36",
+    "rating": 4,
+    "date": "2026-11-17",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2s4eWMwdEJVMW8zV1ZRdFpUVnlTV0ZsY210aVVVRRAB"
+  },
+  {
+    "id": "recent-37",
+    "rating": 4,
+    "date": "2026-11-17",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT25wcmRqUnJkRWRXTWxkSmIxOTJYekYyWkZST1JuYxAB"
+  },
+  {
+    "id": "recent-38",
+    "rating": 3,
+    "date": "2026-11-17",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21aMFoyMTFSRlF5U2tacVJWQXROekZwYTJKWWFHYxAB"
+  },
+  {
+    "id": "recent-39",
+    "rating": 5,
+    "date": "2026-11-15",
+    "batch": "newest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2w5TlJWaFdkblpFTURKdU4yc3RSems0UkhwZk4yYxAB"
+  },
+  {
+    "id": "recent-40",
+    "rating": 4,
+    "date": "2026-11-15",
+    "batch": "newest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21WQlJrNDRUMlUwV0U5cloxRlFTbGxYYzBSTmRFRRAB"
+  },
+  {
+    "id": "recent-41",
+    "rating": 4,
+    "date": "2026-11-15",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21JM1gyZEVZVGRxYjJWdU0wZFlXVEJHYTJwcFJXYxAB"
+  },
+  {
+    "id": "recent-42",
+    "rating": 5,
+    "date": "2026-11-14",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21aeUxXUnVaRWN4V1ZOZmVYcFlaMVY1YjJkeE1IYxAB"
+  },
+  {
+    "id": "recent-43",
+    "rating": 5,
+    "date": "2026-11-14",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT25wbmFsTlhMVU55Ylc5V2QyUlhWVFEyYmpKWk1sRRAB"
+  },
+  {
+    "id": "recent-44",
+    "rating": 5,
+    "date": "2026-11-14",
+    "batch": "newest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2pjeU0zcExiMWx4U2xCRlduQkllamwxZVZaRVlXYxAB"
+  },
+  {
+    "id": "recent-45",
+    "rating": 5,
+    "date": "2026-11-14",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2tSb1ltTkdNRGswY0VweFVqRkdVazV0VTJ4cE1sRRAB"
+  },
+  {
+    "id": "recent-46",
+    "rating": 4,
+    "date": "2026-11-14",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21kTmIxVlVkbU5MYkUxcFIyTnhhRGszUVROWE9HYxAB"
+  },
+  {
+    "id": "recent-47",
+    "rating": 5,
+    "date": "2026-11-14",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT214b2FTMWliVFpxZWtjMWJrbzRaV1ZUZUU0NFVrRRAB"
+  },
+  {
+    "id": "recent-48",
+    "rating": 5,
+    "date": "2026-11-14",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21nME1tVmlOM04wVEd4dlFUWjFVMDl1VFRKQ05FRRAB"
+  },
+  {
+    "id": "recent-49",
+    "rating": 5,
+    "date": "2026-11-14",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT205WGQyc3hTREpEWm5oVlYwOU5kR1J6ZEU5aGVsRRAB"
+  },
+  {
+    "id": "recent-50",
+    "rating": 3,
+    "date": "2026-11-14",
+    "batch": "newest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21OVk9XSndhVkpMY0ZCMmVrdEJNbTl4U0V0TVZsRRAB"
+  },
+  {
+    "id": "recent-51",
+    "rating": 5,
+    "date": "2026-11-13",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21SUE5qVm1lbWRmYVZKQ1pYWmphWEpEVm0xTVRFRRAB"
+  },
+  {
+    "id": "recent-52",
+    "rating": 5,
+    "date": "2026-11-13",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21WblVucGFTSGcxTkY5QlJVVnJUamg2TmtKSFVtYxAB"
+  },
+  {
+    "id": "recent-53",
+    "rating": 5,
+    "date": "2026-11-13",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21sNE5qYzJWa2RrTlRBNVlXaFlkMDVaY2s1Q1gwRRAB"
+  },
+  {
+    "id": "recent-54",
+    "rating": 5,
+    "date": "2026-11-13",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT25JM2NFRjNjRlJFYkRjd1JrNTFlaTFHUXpJNFNYYxAB"
+  },
+  {
+    "id": "recent-55",
+    "rating": 5,
+    "date": "2026-11-13",
+    "batch": "newest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21sRFlXUkZkMTl4Ym1aWVZFWkpaa0V4T0hwZlZHYxAB"
+  },
+  {
+    "id": "recent-56",
+    "rating": 5,
+    "date": "2026-11-11",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT25SNExYQXljbmt3YjNFeGExUTNjemxQU2psTU0yYxAB"
+  },
+  {
+    "id": "recent-57",
+    "rating": 5,
+    "date": "2026-11-11",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2xvdGIxOTJXbXhqVkhkS2FEVTVSR3BSVGxwR1dFRRAB"
+  },
+  {
+    "id": "recent-58",
+    "rating": 4,
+    "date": "2026-11-11",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2kxc1MxcDZlRk52TjAxU1IxTjNXV3Q0TjJseFJGRRAB"
+  },
+  {
+    "id": "recent-59",
+    "rating": 5,
+    "date": "2026-11-11",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2kxTFZtdGlPSEV3ZFd3elNuUmxUbWQ0YzNsV1FtYxAB"
+  },
+  {
+    "id": "recent-60",
+    "rating": 5,
+    "date": "2026-11-11",
+    "batch": "newest",
+    "hasText": false,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2pkVVFrZGhhVGRJVjA1SFEyNVVSR3RzTW5Nd1duYxAB"
+  },
+  {
+    "id": "critical-01",
+    "rating": 1,
+    "date": "2025-12-11",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2tOUFF6TjNlbFpxT0hOa2RYVnRia0UwVGxJdE1WRRAB"
+  },
+  {
+    "id": "critical-02",
+    "rating": 1,
+    "date": "2024-12-24",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChZDSUhNMG9nS0VJQ0FnSUR2bDlqemNREAE"
+  },
+  {
+    "id": "critical-03",
+    "rating": 1,
+    "date": "2023-04-13",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChZDSUhNMG9nS0VJQ0FnSUNSal9xS0V3EAE"
+  },
+  {
+    "id": "critical-04",
+    "rating": 1,
+    "date": "2026-07-04",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT21SUFFYSlBXREV4Y2xFNFZXMURTbGhwT1ZKM00zYxAB"
+  },
+  {
+    "id": "critical-05",
+    "rating": 1,
+    "date": "2022-12-25",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChdDSUhNMG9nS0VJQ0FnSUNCOXJDXzdBRRAB"
+  },
+  {
+    "id": "critical-06",
+    "rating": 1,
+    "date": "2019-10-06",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChdDSUhNMG9nS0VJQ0FnSUMwN2RMSDF3RRAB"
+  },
+  {
+    "id": "critical-07",
+    "rating": 1,
+    "date": "2022-02-04",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChdDSUhNMG9nS0VJQ0FnSURtNWZYNnNRRRAB"
+  },
+  {
+    "id": "critical-08",
+    "rating": 1,
+    "date": "2023-07-20",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChdDSUhNMG9nS0VJQ0FnSURKdWNpdm5BRRAB"
+  },
+  {
+    "id": "critical-09",
+    "rating": 1,
+    "date": "2023-04-03",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChZDSUhNMG9nS0VJQ0FnSUNSX3JTQ0lREAE"
+  },
+  {
+    "id": "critical-10",
+    "rating": 1,
+    "date": "2026-09-04",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT2pWU2EyZEVkUzFsUjFKTlQwcFliMk00VEZJMk5uYxAB"
+  },
+  {
+    "id": "critical-11",
+    "rating": 1,
+    "date": "2023-03-22",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChdDSUhNMG9nS0VJQ0FnSUNSd043V3NRRRAB"
+  },
+  {
+    "id": "critical-12",
+    "rating": 1,
+    "date": "2026-01-06",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-Ci9DQUlRQUNvZENodHljRjlvT25SUVRVZFdVazFOTm1NME9HRTNVVXBqWjI1VmQwRRAB"
+  },
+  {
+    "id": "critical-13",
+    "rating": 1,
+    "date": "2020-01-23",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChdDSUhNMG9nS0VJQ0FnSUNzbEkzUGtBRRAB"
+  },
+  {
+    "id": "critical-14",
+    "rating": 1,
+    "date": "2024-01-12",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChdDSUhNMG9nS0VJQ0FnSUNON09hcG53RRAB"
+  },
+  {
+    "id": "critical-15",
+    "rating": 1,
+    "date": "2024-03-30",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChZDSUhNMG9nS0VJQ0FnSUNELVlIUWN3EAE"
+  },
+  {
+    "id": "critical-16",
+    "rating": 1,
+    "date": "2024-01-27",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChZDSUhNMG9nS0VJQ0FnSUN0Z1BlUkVnEAE"
+  },
+  {
+    "id": "critical-17",
+    "rating": 1,
+    "date": "2019-12-01",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChZDSUhNMG9nS0VJQ0FnSUNNN2JHUElREAE"
+  },
+  {
+    "id": "critical-18",
+    "rating": 1,
+    "date": "2025-05-08",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChdDSUhNMG9nS0VJQ0FnSUNvOTV5Z3dnRRAB"
+  },
+  {
+    "id": "critical-19",
+    "rating": 1,
+    "date": "2019-09-30",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChZDSUhNMG9nS0VJQ0FnSUMwMGUzMlJ3EAE"
+  },
+  {
+    "id": "critical-20",
+    "rating": 1,
+    "date": "2016-11-19",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChZDSUhNMG9nS0VJQ0FnSUNBb092VUFREAE"
+  },
+  {
+    "id": "critical-21",
+    "rating": 1,
+    "date": "2019-09-06",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChdDSUhNMG9nS0VJQ0FnSURVaF91VTVBRRAB"
+  },
+  {
+    "id": "critical-22",
+    "rating": 1,
+    "date": "2021-09-30",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChdDSUhNMG9nS0VJQ0FnSUQ2cnVyRjRnRRAB"
+  },
+  {
+    "id": "critical-23",
+    "rating": 1,
+    "date": "2020-01-01",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChZDSUhNMG9nS0VJQ0FnSURNZ2JTR0lREAE"
+  },
+  {
+    "id": "critical-24",
+    "rating": 1,
+    "date": "2024-04-22",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChdDSUhNMG9nS0VJQ0FnSUNqNGNLSnhBRRAB"
+  },
+  {
+    "id": "critical-25",
+    "rating": 1,
+    "date": "2024-08-12",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChZDSUhNMG9nS0VJQ0FnSUM3MkxTaUZ3EAE"
+  },
+  {
+    "id": "critical-26",
+    "rating": 1,
+    "date": "2022-05-22",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChZDSUhNMG9nS0VJQ0FnSUQyN1puVmJnEAE"
+  },
+  {
+    "id": "critical-27",
+    "rating": 1,
+    "date": "2018-07-25",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChZDSUhNMG9nS0VJQ0FnSURnODdTbkdBEAE"
+  },
+  {
+    "id": "critical-28",
+    "rating": 1,
+    "date": "2018-07-17",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChdDSUhNMG9nS0VJQ0FnSUNBaXZXRF9BRRAB"
+  },
+  {
+    "id": "critical-29",
+    "rating": 1,
+    "date": "2019-12-22",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChdDSUhNMG9nS0VJQ0FnSURNZ3FhczdnRRAB"
+  },
+  {
+    "id": "critical-30",
+    "rating": 1,
+    "date": "2019-02-20",
+    "batch": "lowest",
+    "hasText": true,
+    "source": "https://maps.firecrawl.dev/place/0x3be7d1c3ba603009%3A0x760bf8abce5639f6#review-ChdDSUhNMG9nS0VJQ0FnSUNvaWVTRWtRRRAB"
+  }
+]

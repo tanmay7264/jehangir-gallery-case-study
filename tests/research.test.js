@@ -5,6 +5,8 @@ assert.deepEqual(estimateCost(5600,1,true),{rental:5600,extra:300,gst:1062,total
 for(const days of [0,-1,1.5,31,NaN]) assert.equal(estimateCost(9200,days),null);
 assert.equal(estimateCost(5600,30).total,198240);
 assert.equal(rates.length,10);
+assert.equal(rates[1][2],8400);
+assert.equal(estimateCost(rates[1][2],7).total,69384);
 assert.equal(personas.length,5);
 assert.equal(new Set(photos.map(p=>p.id)).size,photos.length);
 for(const row of rates) assert.ok(row.slice(1).every(n=>Number.isInteger(n)&&n>0));

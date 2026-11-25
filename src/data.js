@@ -55,7 +55,7 @@ export const photos = [
 
 export const rates = [
  ['Auditorium Hall',9200,12000,14700,63900],
- ['Exhibition Gallery 1',6600,6400,10100,27500],
+ ['Exhibition Gallery 1',6600,8400,10100,27500],
  ['Exhibition Gallery 2',9200,12000,13800,36600],
  ['Exhibition Gallery 3',8100,9800,11500,28800],
  ['Exhibition Gallery 4',6100,7700,9200,15300],
